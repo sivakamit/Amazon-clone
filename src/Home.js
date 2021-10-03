@@ -12,7 +12,7 @@ function Home() {
                                 title="The Lean Startup: How Constant
                                 innovation Creats Radically Successful
                                 Business Paperback" 
-                                price={29.99}  
+                                price={28.99}  
                                 image="https://kbimages1-a.akamaihd.net/11e082bf-9af2-45ed-a8ee-2b96613d6c78/1200/1200/False/the-lean-startup-3.jpg" 
                                 rating={4} />
                        <Product id="49538094"
